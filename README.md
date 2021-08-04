@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Java.
-- 💬 I'm looking for an internship.
-- 📫 How to reach me: imseazean@gmail.com.
+- 🌱 I’m currently learning Java
+- 💬 I'm looking for an internship
+- 📫 How to reach me: imseazean@gmail.com
