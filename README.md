@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning Java
-- 💬 I’m currently working on ByteDance
+- 💬 I’m currently working in ByteDance
 - 📫 How to reach me: imseazean@gmail.com
 
 
