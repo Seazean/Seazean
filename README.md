@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning programming
 - 💬 I’m currently working in ByteDance
 - 📫 How to reach me: imseazean@gmail.com
 
