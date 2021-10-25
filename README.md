@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning programming
 - 💬 I’m currently working in ByteDance
-- 📫 How to reach me: imseazean@gmail.com
+- 📫 Reach me: imseazean@gmail.com
 
 
