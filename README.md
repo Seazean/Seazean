@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently working on ByteDance
-- 🔭 [ByteDance Campus Recruiting](https://jobs.bytedance.com/campus/invite?referral_code=1VQUWCD)
+- 🔭 [ByteDance campus recruiting](https://jobs.bytedance.com/campus/invite?referral_code=1VQUWCD)
 - 📫 Reach me: imseazean@gmail.com
 
