@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently working on ByteDance
-- 🔭 [ByteDance campus recruiting](https://jobs.bytedance.com/campus/invite?referral_code=1VQUWCD)
+- 🌱 I’m currently learning Golang
+- 🔭 [ByteDance Campus Recruiting](https://jobs.bytedance.com/campus/invite?referral_code=1VQUWCD)
 - 📫 Reach me: imseazean@gmail.com
 
