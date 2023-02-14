@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning programming
-- 🔭 I’m currently working on ByteDance
+- 🔭 I’m currently working on Alibaba
 - 📫 Reach me: imseazean@gmail.com
 
