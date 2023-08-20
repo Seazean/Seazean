@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Seazean&show_icons=true&icon_color=CE1D2D&text_color=404040&bg_color=ff007f&hide_title=true&hide=contribs" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Seazean&show_icons=true&icon_color=CE1D2D&text_color=404040&bg_color=a0a0a0&hide_title=true&hide=contribs" />
 
 ### Hello, I'm Seazean 👋
 
