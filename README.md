@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Java
 - 🔭 阿里巴巴组内直招：[Job description](https://aidc-jobs.alibaba.com/off-campus/position-detail?lang=zh&positionId=1040520)
 - 📫 欢迎联系: [xizan.zhy@alibaba-inc.com](mailto:xizan.zhy@alibaba-inc.com)
 
